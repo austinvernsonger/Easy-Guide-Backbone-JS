@@ -13,5 +13,5 @@
 * [View](view.md)
 * [Utility](utility.md)
 * [Practice Projects](practice-projects.md)
-    * Project 1
+    * [Project 1](project-1.md)
 
