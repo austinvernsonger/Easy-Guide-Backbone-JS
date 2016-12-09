@@ -7,7 +7,7 @@
 * [Events](events.md)
 * [Model](model.md)
 * [Collection](collection.md)
-* Router
+* [Router](router.md)
 * History
 * Sync
 * View
