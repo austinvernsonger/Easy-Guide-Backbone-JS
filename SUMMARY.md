@@ -8,7 +8,7 @@
 * [Model](model.md)
 * [Collection](collection.md)
 * [Router](router.md)
-* History
+* [History](history.md)
 * Sync
 * View
 * Utility
