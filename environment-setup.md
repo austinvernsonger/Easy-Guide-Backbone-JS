@@ -9,7 +9,7 @@ Backbone.js is very easy to setup and work. This chapter will discuss about down
 
 ## Downloading UI library from its official website
 
-When you open the link http://backbonejs.org/, you will get to see a screen as below:
+When you open the link [http://backbonejs.org/](http://backbonejs.org/), you will get to see a screen as below:
 
 As you can see, there are three options for download of this library:
 
@@ -22,8 +22,14 @@ As you can see, there are three options for download of this library:
 
 ### Dependencies
 
+Backbonejs depends on the following javascript files:
+
+* Underscore.js : This is the only hard dependency which needs to be included. You can get it from here
+
+* jQuery.js : Include this file for RESTful persistence, history support via Backbone.Router and DOM manipulation with Backbone.View. You can get it from here
 
 
+* json2.js : Include this file for older Internet Explorer support. You can get it from here
 
 
 ## Download UI Library from CDNs
@@ -31,10 +37,6 @@ As you can see, there are three options for download of this library:
 
 
 ## Example
-
-
-
-
 
 
 
