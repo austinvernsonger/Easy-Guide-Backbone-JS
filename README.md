@@ -16,5 +16,9 @@
 
 [/history.md](/history.md)
 
+[/sync.md](/sync.md)
 
+[/view.md](/view.md)
+
+[/utility.md](/utility.md)
 
