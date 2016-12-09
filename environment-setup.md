@@ -1,5 +1,7 @@
 # Environment Setup
 
+---
+
 Backbone.js is very easy to setup and work. This chapter will discuss about download and setup of Backbone.js library. Backbone.js can be used in two ways:
 
 * Downloading UI library from its official website.
@@ -101,8 +103,6 @@ As said above, Backbone.js has dependency of following javascript:
 </body>
 </html>
 ```
-
-
 
 
 
