@@ -33,9 +33,32 @@ Backbonejs depends on the following javascript files:
 
 ## Download UI Library from CDNs
 
+A CDN or Content Delivery Network is a network of servers designed to serve files to users. If you use a CDN link in your web page, it moves the responsibility of hosting files from your own servers to a series of external ones. This also offers an advantage that if the visitor to your webpage has already downloaded a copy of Backbone.js from the same CDN, it won't have to be re-downloaded.
 
+
+
+As said above, Backbone.js has dependency of following javascript:
+
+* jQuery
+
+* Underscore
+
+
+**CDN for all the above is as follows:**
+
+```
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script>
+<script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/backbone.js/0.3.3/backbone-min.js"></script>
+```
 
 ## Example
+
+
+
+
+
+
 
 
 
