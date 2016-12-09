@@ -12,4 +12,6 @@
 * [Sync](sync.md)
 * [View](view.md)
 * [Utility](utility.md)
+* [Practice Projects](practice-projects.md)
+    * Project 1
 
