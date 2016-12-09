@@ -24,13 +24,12 @@ As you can see, there are three options for download of this library:
 
 Backbonejs depends on the following javascript files:
 
-* Underscore.js : This is the only hard dependency which needs to be included. You can get it from here
+* Underscore.js : This is the only hard dependency which needs to be included. You can get it from here
 
-* jQuery.js : Include this file for RESTful persistence, history support via Backbone.Router and DOM manipulation with Backbone.View. You can get it from here
+* jQuery.js : Include this file for RESTful persistence, history support via Backbone.Router and DOM manipulation with Backbone.View. You can get it from here
 
 
 * json2.js : Include this file for older Internet Explorer support. You can get it from here
-
 
 ## Download UI Library from CDNs
 
