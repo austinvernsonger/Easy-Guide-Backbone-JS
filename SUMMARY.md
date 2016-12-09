@@ -11,5 +11,5 @@
 * [History](history.md)
 * [Sync](sync.md)
 * [View](view.md)
-* Utility
+* [Utility](utility.md)
 
