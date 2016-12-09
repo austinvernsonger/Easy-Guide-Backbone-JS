@@ -6,7 +6,7 @@
 * [Application](application.md)
 * [Events](events.md)
 * [Model](model.md)
-* Collection
+* [Collection](collection.md)
 * Router
 * History
 * Sync
