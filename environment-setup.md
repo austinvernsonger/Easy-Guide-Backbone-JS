@@ -35,11 +35,9 @@ Backbonejs depends on the following javascript files:
 
 A CDN or Content Delivery Network is a network of servers designed to serve files to users. If you use a CDN link in your web page, it moves the responsibility of hosting files from your own servers to a series of external ones. This also offers an advantage that if the visitor to your webpage has already downloaded a copy of Backbone.js from the same CDN, it won't have to be re-downloaded.
 
-
-
 As said above, Backbone.js has dependency of following javascript:
 
-* jQuery
+* jQuery
 
 * Underscore
 
@@ -54,9 +52,55 @@ As said above, Backbone.js has dependency of following javascript:
 
 ## Example
 
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Hello World using Backbone.js</title>
+</head>
+<body>
+  <!-- ========= -->
+  <!-- Your HTML -->
+  <!-- ========= -->
+
+  <div id="container">Loading...</div>
+
+  <!-- ========= -->
+  <!-- Libraries -->
+  <!-- ========= -->
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.3/underscore-min.js" type="text/javascript">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.2/backbone-min.js" type="text/javascript">
+  </script>
 
 
+  <!-- =============== -->
+  <!-- Javascript code -->
+  <!-- =============== -->
+  <script type="text/javascript">
+    var AppView = Backbone.View.extend({
+      // el - stands for element. Every view has an element associated with HTML content, will be rendered.
+      el: '#container',
+      // It's the first function called when this view is instantiated.
+      initialize: function(){
+        this.render();
+      },
+      // $el - it's a cached jQuery object (el), in which you can use jQuery functions to push content. 
+      Like the Hello TutorialsPoint in this case.
+      render: function(){
+        this.$el.html("Hello TutorialsPoint!!!");
+      }
+    });
 
+    var appView = new AppView();
+  </script>
+
+</body>
+</html>
+```
 
 
 
