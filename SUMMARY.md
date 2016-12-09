@@ -9,7 +9,7 @@
 * [Collection](collection.md)
 * [Router](router.md)
 * [History](history.md)
-* Sync
+* [Sync](sync.md)
 * View
 * Utility
 
