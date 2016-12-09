@@ -10,6 +10,6 @@
 * [Router](router.md)
 * [History](history.md)
 * [Sync](sync.md)
-* View
+* [View](view.md)
 * Utility
 
