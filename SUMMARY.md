@@ -4,7 +4,7 @@
 * [Overview](overview.md)
 * [Environment Setup](environment-setup.md)
 * [Application](application.md)
-* Events
+* [Events](events.md)
 * Model
 * Collection
 * Router
