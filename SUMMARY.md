@@ -5,7 +5,7 @@
 * [Environment Setup](environment-setup.md)
 * [Application](application.md)
 * [Events](events.md)
-* Model
+* [Model](model.md)
 * Collection
 * Router
 * History
